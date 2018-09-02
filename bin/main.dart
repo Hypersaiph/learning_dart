@@ -23,4 +23,12 @@ main(List<String> arguments) {
   String name = 'James';
   String lastname = 'Bond';
   print('My name is $lastname, $name $lastname... witw');
+  int numberOne = 34;
+  int numberTwo = 2;
+  print(numberOne + numberTwo);
+  var result = numberOne + numberTwo;
+  print(result);
+  double pi = 3.14;
+  double gravity = 9.8;
+  print(pi + gravity);
 }
