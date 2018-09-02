@@ -20,5 +20,5 @@ main(List<String> arguments) {
   int b = 1;
   double c = 1.0;
   bool boo_woo = true;
-  print(boo_woo);
+  print(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!boo_woo);
 }
