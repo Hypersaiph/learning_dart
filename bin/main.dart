@@ -20,5 +20,7 @@ main(List<String> arguments) {
   int b = 1;
   double c = 1.0;
   bool boo_woo = true;
-  print(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!boo_woo);
+  String name = 'James';
+  String lastname = 'Bond';
+  print('My name is $lastname, $name $lastname...');
 }
