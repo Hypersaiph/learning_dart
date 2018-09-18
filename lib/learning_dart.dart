@@ -19,6 +19,7 @@ void dataTypes() {
   String a = 'a';
   int b = 1;
   double c = 1.0;
+  double cc = 1.0;
   bool boo_woo = true;
   String name = 'James';
   String lastname = 'Bond';
